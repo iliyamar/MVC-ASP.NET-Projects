@@ -1,0 +1,9 @@
+C:\Users\iliya\source\repos\WebApplication1\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.deps.json
+C:\Users\iliya\source\repos\WebApplication1\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\iliya\source\repos\WebApplication1\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\iliya\source\repos\WebApplication1\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\iliya\source\repos\WebApplication1\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\iliya\source\repos\WebApplication1\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\iliya\source\repos\WebApplication1\BusinessLayer\bin\Debug\netstandard2.0\BusinessLayer.pdb
+C:\Users\iliya\source\repos\WebApplication1\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.dll
+C:\Users\iliya\source\repos\WebApplication1\BusinessLayer\obj\Debug\netstandard2.0\BusinessLayer.pdb

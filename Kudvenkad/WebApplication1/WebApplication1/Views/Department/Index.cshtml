@@ -1,0 +1,20 @@
+﻿
+@using WebApplication1.Models
+
+@model List<Department>
+  
+    @{
+        ViewBag.Title = "Departments";
+    }
+
+    <h2>Departments</h2>
+    <div style="font-family:Arial">
+        <ul>
+            @foreach (var department in @Model)
+            {
+                <li>
+                    @Html.ActionLink(department.Name, "Index", "Employee", new { departmentId = department.Id },null)
+                </li>
+            }
+        </ul>
+    </div>

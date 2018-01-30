@@ -1,0 +1,10 @@
+-p C:\Program Files\dotnet\dotnet.exe
+-pidFile C:\Users\iliya\source\repos\KudvenkatMVC\KudvenkatMVC\bin\IISSupport\pidfile.txt
+-wd C:\Users\iliya\source\repos\KudvenkatMVC\KudvenkatMVC
+-a exec "C:\Users\iliya\source\repos\KudvenkatMVC\KudvenkatMVC\bin\Debug\netcoreapp2.0\KudvenkatMVC.dll"
+-wbe Global\Builda2b9345e-b63d-47ca-b07c-77fdcd9bd8cf
+-lse Global\Launch71a5506e-6846-440f-b888-be61c6ee4f15
+-pipe af18571a-3014-43ac-878c-95b12e92909e
+-pr KudvenkatMVC
+-owningPid 8424
+-env ASPNETCORE_CONTENTROOT=C:\Users\iliya\source\repos\KudvenkatMVC\KudvenkatMVC|ASPNETCORE_HOSTINGSTARTUPASSEMBLIES=Microsoft.AspNetCore.ApplicationInsights.HostingStartup|ASPNETCORE_ENVIRONMENT=Development|COMPLUS_ForceENC=1|
